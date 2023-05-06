@@ -1,0 +1,33 @@
+{
+  "token": "MTEwMzk5MTg3OTE2NDUwNjE2Mg.G7Niti.tQM_j0JUgTk-I8hzaTblwrbWUeAAnsgw2xdOCY",
+  "prefix": [".","!","d!"],
+  "guildID": "1096502014839623680",
+  "BotClientID": "1103991879164506162",
+  "mongoUrl": "mongodb+srv://mamen34364:pNEtV7brUUXO2tUg@cluster0.1qnsey7.mongodb.net/rasssmalxd?retryWrites=true&w=majority",
+  "owners": ["853244416680263680,932657059030241351"],
+  "botDurum": "Demox adlı sunucunun botudur.  .",
+  "botSes": "1097186248415772692",
+   
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+
+  "banlimit": 3,
+  "jaillimit": 8,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
